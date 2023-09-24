@@ -22,7 +22,7 @@ If you have any feedback, please reach out to me at bgdenibg@gmail.com
 ## Screenshots
 ***Beginning of the Game:***
 
-![App Screenshot](https://i.ibb.co/ZWGsjjY/Screenshot-1.png)
+![App Screenshot](https://i.ibb.co/RSNgvHn/Screenshot-4.png)
 
 ***End of the Game:***
-![App Screenshot](https://i.ibb.co/94qvY7w/Screenshot-3.png)
+![App Screenshot](https://i.ibb.co/H43FTTt/Screenshot-5.png)
