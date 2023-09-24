@@ -24,13 +24,11 @@
                     {
                         Console.WriteLine("Too High");
                         unsuccsessfulTries++;
-                        Console.WriteLine($"Unsuccessful tries: {unsuccsessfulTries}");
                     }
                     else
                     {
                         Console.WriteLine("Too Low");
                         unsuccsessfulTries++;
-                        Console.WriteLine($"Unsuccessful tries: {unsuccsessfulTries}");
                     }
                 }
                 else
